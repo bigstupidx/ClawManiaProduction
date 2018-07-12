@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 15088d34ece6d554793658a1113359b3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seq_baloonlamp_left (550x180)_0
+    21300002: seq_baloonlamp_left (550x180)_1
+    21300004: seq_baloonlamp_left (550x180)_2
+    21300006: seq_baloonlamp_left (550x180)_3
+    21300008: seq_baloonlamp_left (550x180)_4
+    21300010: seq_baloonlamp_left (550x180)_5
+    21300012: seq_baloonlamp_left (550x180)_6
+    21300014: seq_baloonlamp_left (550x180)_7
+    21300016: seq_baloonlamp_left (550x180)_8
+    21300018: seq_baloonlamp_left (550x180)_9
+    21300020: seq_baloonlamp_left (550x180)_10
+    21300022: seq_baloonlamp_left (550x180)_11
+    21300024: seq_baloonlamp_left (550x180)_12
+    21300026: seq_baloonlamp_left (550x180)_13
+    21300028: seq_baloonlamp_left (550x180)_14
+    21300030: seq_baloonlamp_left (550x180)_15
+    21300032: seq_baloonlamp_left (550x180)_16
+    21300034: seq_baloonlamp_left (550x180)_17
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_0
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1080
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85bffac25e5de34d9c670ce8fd2870d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_1
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1080
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a13fb0ae46e747964fa9480db46b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9fbbb991fd596459217c58a837c039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 900
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e623f91bd245e641a810618bdec6019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_4
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 900
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92226421cd869184c94c11e396ca7abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49db32458876b4b9d322497c813e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 720
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74de7484fc158d41a9b837324509741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 720
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45716a2d054fc74eafd6949f9a5359b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c191149ca9a35d4e928257ab4321b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 540
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e0734aa1183845b945c7cb5aa2ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_10
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 540
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af08c4301a15047ad79a2cae36eac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e9695a98aed24aa26c34e9b062faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 360
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21a01d5d1cfd541988e4885c7ca860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 360
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d16c09443cff40a9055a84f0e087b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd02c103a5b1d944b47859b212526d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 180
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16acf22a189a404bb1ac6adf092f16b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_16
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 180
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef8bea0a8b9d7243a290dac59505bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seq_baloonlamp_left (550x180)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e5e5320ecdc84da9cc364b32ddc7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

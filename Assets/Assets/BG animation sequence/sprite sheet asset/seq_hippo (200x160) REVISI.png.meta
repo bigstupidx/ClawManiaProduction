@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 2cdcf093c2035a341b7ae926946cb69e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seq_hippo (200x160) REVISI_0
+    21300002: seq_hippo (200x160) REVISI_1
+    21300004: seq_hippo (200x160) REVISI_2
+    21300006: seq_hippo (200x160) REVISI_3
+    21300008: seq_hippo (200x160) REVISI_4
+    21300010: seq_hippo (200x160) REVISI_5
+    21300012: seq_hippo (200x160) REVISI_6
+    21300014: seq_hippo (200x160) REVISI_7
+    21300016: seq_hippo (200x160) REVISI_8
+    21300018: seq_hippo (200x160) REVISI_9
+    21300020: seq_hippo (200x160) REVISI_10
+    21300022: seq_hippo (200x160) REVISI_11
+    21300024: seq_hippo (200x160) REVISI_12
+    21300026: seq_hippo (200x160) REVISI_13
+    21300028: seq_hippo (200x160) REVISI_14
+    21300030: seq_hippo (200x160) REVISI_15
+    21300032: seq_hippo (200x160) REVISI_16
+    21300034: seq_hippo (200x160) REVISI_17
+    21300036: seq_hippo (200x160) REVISI_18
+    21300038: seq_hippo (200x160) REVISI_19
+    21300040: seq_hippo (200x160) REVISI_20
+    21300042: seq_hippo (200x160) REVISI_21
+    21300044: seq_hippo (200x160) REVISI_22
+    21300046: seq_hippo (200x160) REVISI_23
+    21300048: seq_hippo (200x160) REVISI_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: seq_hippo (200x160) REVISI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_hippo (200x160) REVISI_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

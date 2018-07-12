@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1da26587b6d34894b8b8a491df329e05
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textureBola1: {instanceID: 0}
+  - textureBola2: {instanceID: 0}
+  - textureBola3: {instanceID: 0}
+  - soBolaKenaRing: {fileID: 8300000, guid: 5d1c88131a273f4448299ce6e4ab4952, type: 3}
+  - soBolaKenaTanah: {fileID: 8300000, guid: 3f192ae41dffca141af16ca5c8a90877, type: 3}
+  - soBolaKenaBola: {fileID: 8300000, guid: 4115969d68a24d54bb6a561a92e54386, type: 3}
+  - soBolaMasuk: {fileID: 8300000, guid: 79c5a77b7defe3f4cb46b3ee2b0ae9e0, type: 3}
+  - soExplode: {fileID: 8300000, guid: 82468f077b6fbc3488956c12ae394143, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

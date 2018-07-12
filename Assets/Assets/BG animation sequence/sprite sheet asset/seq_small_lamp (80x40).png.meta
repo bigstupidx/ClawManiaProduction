@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 863c646f200941746aa9e587c0cd058c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seq_small_lamp (80x40)_0
+    21300002: seq_small_lamp (80x40)_1
+    21300004: seq_small_lamp (80x40)_2
+    21300006: seq_small_lamp (80x40)_3
+    21300008: seq_small_lamp (80x40)_4
+    21300010: seq_small_lamp (80x40)_5
+    21300012: seq_small_lamp (80x40)_6
+    21300014: seq_small_lamp (80x40)_7
+    21300016: seq_small_lamp (80x40)_8
+    21300018: seq_small_lamp (80x40)_9
+    21300020: seq_small_lamp (80x40)_10
+    21300022: seq_small_lamp (80x40)_11
+    21300024: seq_small_lamp (80x40)_12
+    21300026: seq_small_lamp (80x40)_13
+    21300028: seq_small_lamp (80x40)_14
+    21300030: seq_small_lamp (80x40)_15
+    21300032: seq_small_lamp (80x40)_16
+    21300034: seq_small_lamp (80x40)_17
+    21300036: seq_small_lamp (80x40)_18
+    21300038: seq_small_lamp (80x40)_19
+    21300040: seq_small_lamp (80x40)_20
+    21300042: seq_small_lamp (80x40)_21
+    21300044: seq_small_lamp (80x40)_22
+    21300046: seq_small_lamp (80x40)_23
+    21300048: seq_small_lamp (80x40)_24
+    21300050: seq_small_lamp (80x40)_25
+    21300052: seq_small_lamp (80x40)_26
+    21300054: seq_small_lamp (80x40)_27
+    21300056: seq_small_lamp (80x40)_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: seq_small_lamp (80x40)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seq_small_lamp (80x40)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

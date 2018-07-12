@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 401856}
+  - 114: {fileID: 11459406}
+  m_Layer: 0
+  m_Name: CategoryMascotGemuGemu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &401856
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101856}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11459406
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c27389d3572b8c4da9ad12fc04cba3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contents:
+  - {fileID: 11453208, guid: 4e70bdea9b68e274780e83b1b71d6568, type: 2}
+  - {fileID: 11411034, guid: 20e35058c9f99c14cb08d081cb1e449d, type: 2}
+  - {fileID: 11420658, guid: 2d9c1abb870ce4e469e603416dec29c4, type: 2}
+  - {fileID: 11423612, guid: c5b612af0132b604e841964ec1f0f73e, type: 2}
+  - {fileID: 11470280, guid: 4570e8f3b882fc54888704d2f6d040d3, type: 2}
+  theName: GemuGemu Mascot
+  bonus: 60
+  bonusEXP: 75
+  ShowInUI: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 101856}
+  m_IsPrefabParent: 1

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101856
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 401856}
+  - 114: {fileID: 11459406}
+  m_Layer: 0
+  m_Name: CategoryChristmas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &401856
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101856}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11459406
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c27389d3572b8c4da9ad12fc04cba3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  contents:
+  - {fileID: 11406880, guid: f60e93df6e6255540be37ca0883c8b4e, type: 2}
+  - {fileID: 11418852, guid: daa7fe01c92b3ec4693ca3b1789263f6, type: 2}
+  - {fileID: 11404682, guid: 97396d5efae7c3140b7bb85129e6324d, type: 2}
+  - {fileID: 11440002, guid: 7891a14a1bf17234fbe7ce347a06d4e0, type: 2}
+  - {fileID: 11497718, guid: 704043f9b6aca1840810f656b09b2e05, type: 2}
+  - {fileID: 11418614, guid: f221a6995ca92634e8f28450ca1174fa, type: 2}
+  theName: Christmas
+  bonus: 60
+  bonusEXP: 75
+  ShowInUI: 1
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 101856}
+  m_IsPrefabParent: 1

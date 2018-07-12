@@ -1,0 +1,3 @@
+/C "keytool -storepass {0} -keypass {1} -exportcert -alias {2} -keystore {3} | openssl sha1 -binary | openssl base64"
++Hg1mTOqtZCZxd36GY/hficHAMw=
+
