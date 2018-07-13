@@ -305,7 +305,7 @@ public class SocialPlatfromSettingsEditor : Editor {
 				intent_filter.GetOrCreatePropertyWithName("category", "android.intent.category.BROWSABLE");
 				AN_PropertyTemplate data = intent_filter.GetOrCreatePropertyWithTag("data");
 				data.SetValue("android:scheme", "oauth");
-				data.SetValue("android:host", PlayerSettings.bundleIdentifier);
+				data.SetValue("android:host", PlayerSettings.applicationIdentifier);
 			} 
 		} else {
 			if(AndroidNativeProxy != null) {
@@ -329,7 +329,9 @@ public class SocialPlatfromSettingsEditor : Editor {
 		
 
 
-			ApplicationId_meta.SetValue("android:value", "\\ " + FBSettings.AppId);
+			#region FACEBOOK
+			// ApplicationId_meta.SetValue("android:value", "\\ " + FBSettings.AppId);
+			#endregion
 
 			LoginActivity.SetValue("android:label", "@string/app_name");
 			LoginActivity.SetValue("android:theme", "@android:style/Theme.Translucent.NoTitleBar");

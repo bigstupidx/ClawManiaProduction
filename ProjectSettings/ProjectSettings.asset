@@ -246,7 +246,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 2800000, guid: aba10c1ccc7926342b3882f576e7334c, type: 3}
   AndroidKeystoreName: D:/Helga/UnityProjects/ClawMania/newclawmania.keystore
-  AndroidKeyaliasName: release
+  AndroidKeyaliasName: baskethooprelease
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   AndroidEnableTango: 0
@@ -558,7 +558,8 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
   webGLLinkerTarget: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    4: NO_GPGS
   platformArchitecture:
     iOS: 2
   scriptingBackend:
@@ -650,13 +651,13 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Build: 1
+    Build: 0
     UNet: 1
-  facebookSdkVersion: 7.9.4
+  facebookSdkVersion: pluginIncompatible
   apiCompatibilityLevel: 2
-  cloudProjectId: f4cf3533-a919-4958-a38b-a4948c600ca5
+  cloudProjectId: 28084ffb-4df0-4d6b-bab2-3a222d12fe33
   projectName: Claw Mania
-  organizationId: helga0907
+  organizationId: bhakti_gl1
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0

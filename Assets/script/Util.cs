@@ -15,16 +15,18 @@ public class Util : ScriptableObject
         return url;
     }
 
-    public static void FriendPictureCallback(FBResult result)
-    {
-        if (result.Error != null)
-        {
-            Debug.LogError(result.Error);
-            return;
-        }
+    #region FACEBOOK
+    // public static void FriendPictureCallback(FBResult result)
+    // {
+    //     if (result.Error != null)
+    //     {
+    //         Debug.LogError(result.Error);
+    //         return;
+    //     }
 
-        //GameStateManager.FriendTexture = result.Texture;
-    }
+    //     //GameStateManager.FriendTexture = result.Texture;
+    // }
+    #endregion
 
     public static Dictionary<string, string> RandomFriend(List<object> friends)
     {

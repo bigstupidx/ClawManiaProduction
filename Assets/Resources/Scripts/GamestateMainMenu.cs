@@ -15,10 +15,13 @@ public class GamestateMainMenu : Gamestate
 		
 		GameManager.SetupAudio ();
 		labelLv.text = GameManager.getLevelValue ().ToString();
-		string sFBID = "";
-		if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
-			sFBID = SPFacebook.instance.UserId;
-		gl1Connector.RequestUserData (this.gameObject,gl1Connector.GetCurrUser(),gl1Connector.GetToken(), SystemInfo.deviceUniqueIdentifier,sFBID);
+		
+		#region FACEBOOK
+		// string sFBID = "";
+		// if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
+		// 	sFBID = SPFacebook.instance.UserId;
+		// gl1Connector.RequestUserData (this.gameObject,gl1Connector.GetCurrUser(),gl1Connector.GetToken(), SystemInfo.deviceUniqueIdentifier,sFBID);
+		#endregion
 	}
 	
 	// Update is called once per frame

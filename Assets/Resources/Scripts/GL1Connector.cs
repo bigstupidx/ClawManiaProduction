@@ -324,27 +324,30 @@ public class GL1Connector : MonoBehaviour
 		else
 			return "";
 	}
-	public void LoginViaFB(string email){
-		
-		//change this values according to user input
-		string fbId = FB.UserId;
-		string userEmail = email;
-		
-		//string tempGameid = gameID;
-		string tempIp = "";
-		
-		string postURL = "https://www.gemugemu.com/api/loginfb.php";
-		
-		string jsonString = "{\"fb_id\":\"" + fbId + "\"," +
-			"\"fb_email\":\"" + userEmail + "\"," +
-				"\"gameid\":\""   + GAME_ID   + "\"," +
-				"\"ip\":\""       + tempIp       + "\"," +
-				"\"gamever\":\""       + GAME_VER       + "\"" +
-				"}";
 
-		StartCoroutine (Sending (postURL, jsonString));
-	}
+	
+	#region FACEBOOK && GEMU API
+	// public void LoginViaFB(string email){
+		
+	// 	//change this values according to user input
+	// 	string fbId = FB.UserId;
+	// 	string userEmail = email;
+		
+	// 	//string tempGameid = gameID;
+	// 	string tempIp = "";
+		
+	// 	string postURL = "https://www.gemugemu.com/api/loginfb.php";
+		
+	// 	string jsonString = "{\"fb_id\":\"" + fbId + "\"," +
+	// 		"\"fb_email\":\"" + userEmail + "\"," +
+	// 			"\"gameid\":\""   + GAME_ID   + "\"," +
+	// 			"\"ip\":\""       + tempIp       + "\"," +
+	// 			"\"gamever\":\""       + GAME_VER       + "\"" +
+	// 			"}";
 
+	// 	StartCoroutine (Sending (postURL, jsonString));
+	// }
+	#endregion
 
 
 	string sLastURL;
@@ -404,10 +407,13 @@ public class GL1Connector : MonoBehaviour
 						PlayerPrefs.SetString (PlayerPrefHandler.keyUserName, sCurrUser);
 						PlayerPrefs.SetString (PlayerPrefHandler.keyToken, sToken);
 
-						if(FB.IsLoggedIn){
-							GameObject.Find ("GUI_Share").GetComponent<GUI_Share>().OnFBLoggedIn();
-							GameObject.Find ("GUI_Share").GetComponent<GUI_Share>().OnGemuGemuLoggedIn();
-						}
+
+						#region FACEBOOK && GEMU API
+						// if(FB.IsLoggedIn){
+						// 	GameObject.Find ("GUI_Share").GetComponent<GUI_Share>().OnFBLoggedIn();
+						// 	GameObject.Find ("GUI_Share").GetComponent<GUI_Share>().OnGemuGemuLoggedIn();
+						// }
+						#endregion
 					}
 				}
 				else

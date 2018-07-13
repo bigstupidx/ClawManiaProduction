@@ -65,7 +65,7 @@ MonoBehaviour:
   CameraAPI: 1
   KeepManifestClean: 1
   GCM_SenderId: YOUR_SENDER_ID_HERE
-  GooglePlayServiceAppID: 699498012797
+  GooglePlayServiceAppID: 216817929098
   base64EncodedPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlxdKK/FJKEJAnNZJsDaI1xALsSNtVKWYJVTkxPSBH+f8BoFRbTN1kngt18NBIegqC2ZFnM5Le+2ipxZCBEjJOM7d1675OS+mkjoicriLPrN2oqg8rZzTR5s5ka4iT9x6vcgeLppqaZpx7HhVl9znRAVOTiEzsMiubEaFYLfczZiH6lnJyfNtYJdwBuxLF7ZaMZLHLYGvlDweXy9B79R8zrjylGzy4e1QhR/pLFnp/atBmfUdlbfF0yP0hgfI/4Fh/flLqSZgB1HFtQhFPWXDypEOLaQvWZuBcLALQgwAU55ubN2coxK9tGKrfhaLV30O/dAZIIOcUZl7yKVqOXI3SQIDAQAB
   InAppProducts:
   - gemugemu.10coins

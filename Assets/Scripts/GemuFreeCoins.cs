@@ -95,7 +95,11 @@ public class GemuFreeCoins : GUI_Dialog {
 	{
 		Debug.LogError ("Like Us");
 		//SPFacebook.instance.LoadLikes (FB.UserId, "1435959710032078");
-		SPFacebook.instance.LoadLikes (FB.UserId);
+
+		#region FACEBOOK
+		// SPFacebook.instance.LoadLikes (FB.UserId);
+		#endregion
+		
 		/*
 		bool isLike = SPFacebook.instance.IsUserLikesPage (FB.UserId, "646187692163223");
 		if (isLike) {

@@ -355,9 +355,11 @@ public class Gamestate_Gameplay : Gamestate
 
 			transition.Show (Transition.TransitionMode.EaseOut);
 			
-			string sFBID = "";
-			if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
-				sFBID = SPFacebook.instance.UserId;
+			#region FACEBOOK
+			// string sFBID = "";
+			// if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
+			// 	sFBID = SPFacebook.instance.UserId;
+			#endregion
 
 			//gl1Connector.RequestUserData (this.gameObject,gl1Connector.GetCurrUser(),gl1Connector.GetToken(),SystemInfo.deviceUniqueIdentifier,sFBID);
 			
@@ -683,9 +685,11 @@ public class Gamestate_Gameplay : Gamestate
 			sClaw = PlayerPrefs.GetString("playerclaw");
 		SetClaw (sClaw);
 		
-		string sFBID = "";
-		if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
-			sFBID = SPFacebook.instance.UserId;
+		#region FACEBOOK
+		// string sFBID = "";
+		// if (SPFacebook.instance.IsInited && SPFacebook.instance.IsLoggedIn)
+		// 	sFBID = SPFacebook.instance.UserId;
+		#endregion
 		//gl1Connector.RequestUserData (this.gameObject,gl1Connector.GetCurrUser(),gl1Connector.GetToken(),SystemInfo.deviceUniqueIdentifier,sFBID);
 		StartCoroutine (CheckingPrize ());
 		yield break;
