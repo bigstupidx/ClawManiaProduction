@@ -66,6 +66,7 @@ public class GUI_InGame : MonoBehaviour
 	{
 		//Debug.LogError ("RefreshGemuCoinInfo GemuCoin="+GameManager.GEMUCOINS.ToString());
 		GameManager.SetNGUILabel (labelGemuCoin.transform, GameManager.GEMUCOINS.ToString ());
+		Debug.Log("gemucoin = " + GameManager.GEMUCOINS.ToString ());
 	}
 
 	public void RefreshExpInfo()
@@ -98,6 +99,7 @@ public class GUI_InGame : MonoBehaviour
 	{
 		//Debug.LogError ("energy=" + GameManager.FREECOINS.ToString ());
 		GameManager.SetNGUILabel (labelCoins.transform, GameManager.FREECOINS.ToString ());
+		Debug.Log("energy = " + GameManager.FREECOINS.ToString ());
 	}
 
 	public void RefreshPowerUpsInfo()

@@ -925,8 +925,8 @@ public class Gamestate_Gameplay : Gamestate
 
 	void RandomPrize()
 	{
-        //int iRandom = (int)(Random.value * 100) % targetList.Count;
-        int iRandom = getFixedIndex(indexPrize);
+        int iRandom = (int)(Random.value * 100) % targetList.Count;
+        // int iRandom = getFixedIndex(indexPrize); //RANDOM 1 CATEGORY ONLY
 
 		Content obTarget = (Content)targetList [iRandom];
 		//Debug.LogError (obTarget.name);
@@ -1160,14 +1160,23 @@ public class Gamestate_Gameplay : Gamestate
 
 					if ( grabState == GrabState.None )
 					{
-						if ( GameManager.GEMUCOINS - GameManager.GRAB_COIN_REDUCED >= 0 )
+						#region BEFORE
+						// if ( GameManager.GEMUCOINS - GameManager.GRAB_COIN_REDUCED >= 0 )
+						// {
+                            // GameManager.GEMUCOINS -= GameManager.GRAB_COIN_REDUCED; //energy changed with funds
+							// PlayerPrefs.SetInt(PlayerPrefHandler.keyCoin,GameManager.GEMUCOINS);
+                            // PlayerPrefs.Save();
+                            // guiIngame.RefreshGemuCoinInfo();
+						#endregion
+
+						if ( GameManager.FREECOINS - GameManager.GRAB_COIN_REDUCED >= 0 )
 						{
-                            //GameManager.FREECOINS -= GameManager.GRAB_COIN_REDUCED;
-                            GameManager.GEMUCOINS -= GameManager.GRAB_COIN_REDUCED; //energy changed with funds
-							PlayerPrefs.SetInt(PlayerPrefHandler.keyCoin,GameManager.GEMUCOINS);
+                            GameManager.FREECOINS -= GameManager.GRAB_COIN_REDUCED;
+						
+							PlayerPrefs.SetInt(PlayerPrefHandler.keyCoin,GameManager.FREECOINS);
                             PlayerPrefs.Save();
-                            //guiIngame.RefreshFreeEnergyInfo();
-                            guiIngame.RefreshGemuCoinInfo();
+                            guiIngame.RefreshFreeEnergyInfo();
+
 							//hook.TurnOnOffSensors (true);
 							grabState = GrabState.GettingDown;
 							hook.ClearListTrigger();
@@ -1177,7 +1186,12 @@ public class Gamestate_Gameplay : Gamestate
 						else
 						{
 							grabButton.Reset();
-							ShowDialogBox("Not Enough Fund", "",false,"AddFund",this.gameObject);
+
+							#region BEFORE
+							// ShowDialogBox("Not Enough Fund", "",false,"AddFund",this.gameObject);
+							#endregion
+							ShowDialogBox("Not Enough Energy", "",false,"AddFund",this.gameObject);
+
 							//disable free gift button
 //							if (TimerHandler.instance.FreeGiftAvailablilty ()) {
 //								//TextAndButton_FreeGift.SetActive (true);
